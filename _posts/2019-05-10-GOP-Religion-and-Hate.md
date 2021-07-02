@@ -6,7 +6,7 @@ tags: Current-Affairs GOP Religion
 ---
 A bright 15-year-old young woman asks:
 
-![Tweet from Emilia](/docs/assets/images/emilia-tweet.png)
+![Tweet from Emilia](/assets/images/emilia-tweet.png)
 
 My response, lightly edited:
 
