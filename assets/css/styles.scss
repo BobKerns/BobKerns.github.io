@@ -37,3 +37,23 @@ nav > * {
     text-align: center;
     background-color: #e0e0ff;
 }
+
+#tags {
+    font-style: italic;
+}
+
+#tags * {
+    font-size: 12px;
+}
+
+#tags .tags .tag ::after {
+    content: ", ";
+}
+#tags .tags .tag:last-child ::after {
+    content: "";
+}
+
+#tags .label {
+    font-weight: bold;
+    font-style: normal;
+}

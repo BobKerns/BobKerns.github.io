@@ -2,7 +2,7 @@
 layout: post
 title: "Emilia Asks About the GOP Religion and Hate"
 date: 2019-05-10 09:27:00 -0000
-tags: Current-Affairs GOP Religion
+tags: current-affairs GOP religion
 ---
 A bright 15-year-old young woman asks:
 
