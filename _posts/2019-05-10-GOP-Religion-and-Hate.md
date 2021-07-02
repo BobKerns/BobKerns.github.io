@@ -158,7 +158,7 @@ Maybe God is telling them they should work harder.
 Maybe gays aren't trying hard enough to be straight.
 Maybe my religion requires me to hate those who would help.
 
-It's a long story. This is just one of the challenges we face. Evangelism was never about this kind of thing, any more than it was about slavery, which it opposed
+It's a long story. This is just one of the challenges we face. Evangelism was never about this kind of thing, any more than it was about slavery, which it opposed.
 
 But it was the original viral message, and it can be weaponized.
 
