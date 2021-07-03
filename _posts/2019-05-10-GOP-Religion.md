@@ -2,11 +2,16 @@
 layout: post
 title: "The GOP Religion"
 date: 2019-05-10 09:27:00 -0000
-categories: Current-Affairs GOP Religion
+tags: GOP religion
+tag: current affairs
+tag: Steve King
+tag: Bob Kerns
+excerpt_separator: <!--more-->
 ---
 In response to some nonsense or other from Steve King \[R-IA4], in November 2017, I wrote the following.
 
 My father was an Iowa country preacher. So was my mother's father. I never saw the slightest hint of such attitudes, heard the slightest whisper. I don't recall ever being taught that women need men's protection—just the Golden Rule—treat everyone as you'd like to be treated yourself.
+<!--more-->
 
 My father and grandfather were in the Evangelical United Brethren (EUB), a Wesleyan denomination that with an intervening split and merger, once counted the Wright Brothers father as a Bishop, and ultimately were an offshoot of the Church of England.
 

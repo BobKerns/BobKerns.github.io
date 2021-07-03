@@ -2,11 +2,14 @@
 layout: post
 title: "Emilia Asks About the GOP Religion and Hate"
 date: 2019-05-10 09:27:00 -0000
-tags: current-affairs GOP religion
+tags: GOP religion history
+tag: current affairs
+excerpt_separator: <!--more-->
 ---
 A bright 15-year-old young woman asks:
 
 ![Tweet from Emilia](/assets/images/emilia-tweet.png)
+<!--more-->
 
 My response, lightly edited:
 
