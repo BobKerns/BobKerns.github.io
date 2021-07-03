@@ -42,6 +42,10 @@ nav > * {
     font-style: italic;
 }
 
+#tags a, #tags a *, #taglist a, #taglist a * {
+    color: blue !important;
+}
+
 #tags * {
     font-size: 12px;
 }
