@@ -1,0 +1,22 @@
+#!/bin/sh
+#
+# Called by "git commit" with the name of the file that has the
+# commit message, followed by the description of the commit
+# message's source.  The hook's purpose is to edit the commit
+# message file.  If the hook fails with a non-zero status,
+# the commit is aborted.
+
+COMMIT_MSG_FILE=$1
+COMMIT_SOURCE=$2
+SHA1=$3
+
+case "$COMMIT_SOURCE,$SHA1" in
+    ,|template,)
+        (
+            sed -n '/^# On branch /q;p' $COMMIT_MSG_FILE
+            git status 2>&1 | sed 's/^/# /; s/ $//'
+        )> $COMMIT_MSG_FILE.tmp
+        mv $COMMIT_MSG_FILE.tmp $COMMIT_MSG_FILE
+        ;;
+    *) ;;
+esac

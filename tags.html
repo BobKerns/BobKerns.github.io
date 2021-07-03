@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<span id="taglist">
+    <div class="tags">
+    {% for tag in site.tags %}
+        {% capture tag_name %}{{ tag[0] }}{% endcapture %}
+        <div>
+            <a href="/tag/{{ tag_name }}"j class="tag"><nobr>{{ tag_name }}</nobr>&nbsp;({{tag[1].size}})</a>
+        </div>
+    {% endfor %}
+    </div>
+</span>

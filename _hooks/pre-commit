@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm -rf tag
+bin/tagify
+git add tag
+git status

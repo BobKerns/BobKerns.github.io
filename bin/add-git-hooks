@@ -1,0 +1,10 @@
+#!/bin/sh
+HOOKS_DIR="$(git rev-parse --git-dir)/hooks"
+install() {
+    echo "Linking $HOOKS_DIR/$1 to _hooks/$1".
+    mv "$HOOKS_DIR/$1" "$HOOKS_DIR/$1.bak" 2>/dev/null
+    ln -s "../../_hooks/$1" "$HOOKS_DIR/$1"
+}
+
+install pre-commit
+install prepare-commit-msg
