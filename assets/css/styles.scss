@@ -13,6 +13,14 @@ a {
     color: blue !important;
 }
 
+a:visited {
+    color: purple !important;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 a.navigation.current {
     color: black;
 }
@@ -20,6 +28,10 @@ a.navigation.current {
 a.navigation {
     font-family: sans-serif;
     width: 100%;
+}
+
+a.navigation:visited {
+    color: blue !important;
 }
 
 nav {
