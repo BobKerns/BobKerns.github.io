@@ -1,10 +1,10 @@
-{% if page.tags %}
+{% if item.tags %}
     <span id="tags">
-        <span class="label">Tags: </span>
+        <span class="label">Tags:&nbsp;</span>
         <span class="tags">
-        {% for tag in page.tags %}
+        {% for tag in item.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"j class="tag"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
+            <a href="/tag/{{ tag_name }}"j class="tag"><nobr>{{ site.data.tagnames[tag_name] | default: tag_name }}</nobr></a>
         {% endfor %}
         </span>
     </span>
