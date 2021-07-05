@@ -9,6 +9,20 @@
     font-family: 'Libre Baskerville', serif;
 }
 
+#container header, #container h1 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #c0c0ff;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#container hr.rule {
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+    color: #c0c0ff;
+}
+
 a {
     color: blue !important;
 }
@@ -40,6 +54,7 @@ nav {
     flex-direction: row;
     justify-items: space-between;
     margin-bottom: 20px;
+    margin-top: 0px;
 }
 
 nav > * {
