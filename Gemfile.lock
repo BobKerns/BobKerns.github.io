@@ -219,6 +219,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
+    netrc (0.11.0)
     nokogiri (1.11.7-x86_64-darwin)
       racc (~> 1.4)
     octokit (4.21.0)
@@ -274,6 +275,7 @@ DEPENDENCIES
   jekyll-theme-tactile (~> 0.1.1)
   kramdown-parser-gfm
   minima (~> 2.0)
+  netrc
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
