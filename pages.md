@@ -1,0 +1,4 @@
+---
+layout: pagelist
+title: Pages
+---

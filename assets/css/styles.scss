@@ -61,3 +61,43 @@ nav > * {
     font-weight: bold;
     font-style: normal;
 }
+
+.items blockquote {
+    font-size: 0.9em;
+}
+
+.items .item {
+    border: solid 0.5px goldenrod;
+    margin: 3px;
+    padding: 5px;
+    display: block;
+}
+
+.items .item .date::before {
+    content: "(";
+    font-size: 0.75em;
+}
+
+.items .item .date {
+    font-size: 0.75em;
+}
+
+.items .item .date::after {
+    content: ")";
+    font-size: 0.75em;
+}
+
+#postlist .listhead, #pagelist .listhead {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    border-top: solid 1px;
+    padding-top: 1em;
+}
+
+#main_content blockquote {
+    font-size: 0.9em;
+    padding: 1em;
+    background-color: rgba(255, 222, 128, 0.2);
+    border: solid 0.75px rgba(222, 128, 96, .2);
+}

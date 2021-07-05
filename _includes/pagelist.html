@@ -1,0 +1,23 @@
+<div id="pagelist" class='pages items'>
+    <div class='listhead'>Pages</div>
+    {% for page in site.pages %}
+        {% assign item_type = (page.path | split: "/" | first) %}
+        {% if item_type == "pages" %}
+        <div class="page item">
+            <div class="posthead">
+                <a href="{{ page.url }}">{{ page.title }}
+                    <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span>
+                </a>
+            </div>
+            <a href="{{ page.url }}">
+                <blockquote>
+                    {{ page.excerpt }}
+                </blockquote>
+            </a>
+            {% assign item = page %}
+            {% include tagref.html %}
+        </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
