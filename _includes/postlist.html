@@ -1,0 +1,20 @@
+<div id="postlist" class='posts items'>
+    <div class='listhead'>Latest Posts</div>
+    {% for post in site.posts %}
+        <div class="post item">
+            <div class="posthead">
+                <a href="{{ post.url }}">{{ post.title }}
+                    <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </a>
+            </div>
+            <a href="{{ post.url }}">
+                <blockquote>
+                    {{ post.excerpt }}
+                </blockquote>
+            </a>
+            {% assign item = post %}
+            {% include tagref.html %}
+        </div>
+    {% endfor %}
+    </div>
+</div>
