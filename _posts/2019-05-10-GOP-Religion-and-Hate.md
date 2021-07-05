@@ -2,8 +2,7 @@
 layout: post
 title: "Emilia Asks About the GOP Religion and Hate"
 date: 2019-05-10 09:27:00 -0000
-tags: GOP religion history
-tag: current affairs
+tags: GOP religion history current-affairs
 excerpt_separator: <!--more-->
 ---
 A bright 15-year-old young woman asks:
@@ -46,7 +45,7 @@ On to England, where Arminius's ideas had taken hold in the Church of England. J
 
 A pamphlet referred to them as "The Oxford Methodists", so Wesley himself adopted the term. They became a sort of a church within the Church of England.
 
-Wesley was invited to the colonies. What he started during his time here, became separate & evangelism took aim at natives
+Wesley was invited to the colonies. What he started during his time here, became separate & evangelism took aim at natives.
 
 But Calvinist ideas came, too, with denial of free will. Life is as God ordained; sinners are damned, the saved are blessed, end of story.
 
@@ -149,7 +148,7 @@ Predestination to be that way. And to be damned.
 
 These ideas slowly spread into the more mainstream traditions. In I think 1992, I attended a Methodist service as part of my parent's anniversary celebration. At this service, a lay delegate gave a report on the Methodist conference—at which they ruled out gay marriage and ministry. That was disturbing enough, but he delivered it with glee. Adding to the dissonance was he was dressed and groomed to perfection, to a degree I would have guessed he was the very thing he feared. I'm not guessing at his sexuality, but the futility of his fears.
 
-Had it been any other occasion, I would have stood and protested, and left
+Had it been any other occasion, I would have stood and protested, and left!
 
 But we have a theme here. Remember Tyndale? Remember predestination justifying slavery? With predestination, you can if you choose, write off anyone you disapprove of. LGBTQ? They belong to the devil.
 
