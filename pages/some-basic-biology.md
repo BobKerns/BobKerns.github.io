@@ -29,7 +29,7 @@ But the DNA lives in the cell nucleus, and is big and complex and contains many 
 
 mRNA (Messenger RNA) is the link between a cell's DNA and creating proteins.
 
-DNA consists of sequences of 4 elements, abbreviated G, T, A, and C. DNA has two paired strands. If one strand has a G, the other has a T, and vise versa. Likewise for A and C. These make up the "alphabet" of genetics. They function in groups of three; each group of 3 codes for a specific amino acid to be used in constructing the protein.
+DNA consists of sequences of 4 subunits, abbreviated G, T, A, and C. DNA has two paired strands. If one strand has a G, the other has a T, and vise versa. Likewise for A and C. These make up the "alphabet" of genetics. They function in groups of three; each group of 3 codes for a specific amino acid to be used in constructing the protein.
 
 RNA usually consists of one strand (mRNA always does). Rather than T, RNA uses U, but otherwise it functions the same, in groups of three.
 
