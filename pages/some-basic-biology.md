@@ -33,7 +33,7 @@ Each mRNA has some extra stuff at the begining and end that I'll skip to keep th
 
 > A R N D B C Q E Z G H I L K M F P S T W Y V
 
-[![Amino Acid Table](../assets/images/Aminoacids_table.svg.png)](../assets/images/Aminoacids_table.svg)
+[![Amino Acid Table](../assets/images/Aminoacids_table.svg.png)](/assets/images/Aminoacids_table.svg)
 
 ## How does a virus work?
 
