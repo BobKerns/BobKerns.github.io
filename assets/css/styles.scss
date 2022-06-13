@@ -6,7 +6,6 @@
 
 #container * {
     color: black;
-    background-color: #d0ffe0;
     font-family: 'Libre Baskerville', serif;
 }
 
@@ -34,6 +33,11 @@
 
 a {
     color: blue !important;
+}
+
+code.language-fasta {
+    background-color: #d0ffe0;
+    color: #000000;
 }
 
 a:visited {
