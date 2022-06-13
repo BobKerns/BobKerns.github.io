@@ -65,6 +65,12 @@ nav {
     margin-top: 0px;
 }
 
+#container pre code {
+    padding: 0;
+    color: #d0ffe0;
+    background-color: #d0ffe0;
+}
+
 nav > * {
     flex: 1;
     width: auto;
