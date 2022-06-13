@@ -9,6 +9,14 @@
     font-family: 'Libre Baskerville', serif;
 }
 
+#container i {
+    font-style: italic;
+}
+
+#container b {
+    font-weight: bold;
+}
+
 #container header, #container h1 {
     padding-top: 12px;
     padding-bottom: 12px;
@@ -127,4 +135,24 @@ nav > * {
     padding: 1em;
     background-color: rgba(255, 222, 128, 0.2);
     border: solid 0.75px rgba(222, 128, 96, .2);
+}
+
+#container footer {
+    font-size: 0.8em;
+    margin: 0px;
+    padding: 1em;
+    background-color: rgb(208, 208, 208) !important;
+    color: rgb(92, 92, 92);
+}
+
+#container footer a {
+    color: rgb(92, 92, 192) !important;
+}
+
+#container footer a:visited {
+    color: rgb(128, 64, 128) !important;
+}
+
+#container dd {
+    margin-left: 3em;
 }
