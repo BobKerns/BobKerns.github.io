@@ -30,7 +30,7 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 | Medicare & Medicaid[³](#3) | $1,424B |
 | Scattergood Repowering Project[⁶](#6) | $1.2B |
 | National Nuclear Security Administration[⁷](#7) | $22.2B |
-| Department of Defense[9](#9) | $748.0B |
+| Department of Defense[⁹](#9) | $748.0B |
 | US GDP 2022[⁵](#5) | $25,720.0B |
 | Elon Musk[⁸](#8) (#1)| $251.0B |
 | Michael Dell[⁸](#8) (#16) | $50.0B |
@@ -46,7 +46,7 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 ><a id='6'/> ⁶Scattergood is the 850 MW power station just south of LAX airport. The existing generators were replaced with new gas turbines in 2014-2027. $950 million project cost converted to 2022 dollars.\
 ><a id='7'/> ⁷The NNSA is the department in the DOE responsible for maintaining and upgrading our stockpile of nuclear warheads. This does not include any of the military costs—manpower and equipment to deliver them to a target, or strategies to deliver them.\
 ><a id='8'/> ⁸[Forbes 400 Richest Americans (2022)](https://www.forbes.com/forbes-400/)\
-><a id='9'> 9 Does not include non-DOD expenditures, such as the DOE nuclear programs.
+><a id='9'> ⁹Does not include non-DOD expenditures, such as the DOE nuclear programs.
 
 So we can think of \$1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the bottom of the Forbes 400 list.
 
