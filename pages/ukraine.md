@@ -62,5 +62,3 @@ When Russia expanded its invasion in February 2022, the question became, "Is the
 I believe the answer to be a resounding "No".
 
 Putin's power rests on direct or indirect control of its extraction industries, especially oil and gas, and on much of its domestic life, including the media. Independent media faced competition from state-owned media, or were swallowed up by Gazprom Media, with significant state ownership and control.
-
-
