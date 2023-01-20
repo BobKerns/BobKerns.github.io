@@ -71,4 +71,9 @@ I'm not going to dive into imperialism here. For our purpose here, I mean it bro
 
 And yes, I am deeply aware of the United States' history of imperialism. I could rant about the Dulles brothers all day long, but the United States itself is the result of a long series of land grabs. The overthrow of the Hawaian monarchy, engineered by the Dulles brothers' grandfather, John Foster, or the territories we acquired via the Spanish American War, are the last, depending on how we count.
 
+To oppose war, you have to oppose imperialism, whether at home or abroad.
+
+And the worst thing you can do in the face of a land grab is—nothing. After the Russian grab for Ukraine began in 2014, we slapped a few sanctions. Europe continued to buy Russian gas in vast quantities.
+
+That bolstered Putin's power, and funded its military, and helped bring us to where we are today.
 
