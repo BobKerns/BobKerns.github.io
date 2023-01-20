@@ -30,6 +30,7 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 | Medicare & Medicaid[³](#3) | $1,424B |
 | Scattergood Repowering Project[⁶](#6) | $1.2B |
 | National Nuclear Security Administration[⁷](#7) | $22.2B |
+| Department of Defense[9](#9) | $748.0B |
 | US GDP 2022[⁵](#5) | $25,720.0B |
 | Elon Musk[⁸](#8) (#1)| $251.0B |
 | Michael Dell[⁸](#8) (#16) | $50.0B |
@@ -44,7 +45,8 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 ><a id='5'/> ⁵[Bureau of Economic Analysis 3rd Estimate](https://www.bea.gov/sites/default/files/2022-12/gdp3q22_3rd.pdf)\
 ><a id='6'/> ⁶Scattergood is the 850 MW power station just south of LAX airport. The existing generators were replaced with new gas turbines in 2014-2027. $950 million project cost converted to 2022 dollars.\
 ><a id='7'/> ⁷The NNSA is the department in the DOE responsible for maintaining and upgrading our stockpile of nuclear warheads. This does not include any of the military costs—manpower and equipment to deliver them to a target, or strategies to deliver them.\
-><a id='8'/> ⁸[Forbes 400 Richest Americans (2022)](https://www.forbes.com/forbes-400/)
+><a id='8'/> ⁸[Forbes 400 Richest Americans (2022)](https://www.forbes.com/forbes-400/)\
+><a id='9'> 9 Does not include non-DOD expenditures, such as the DOE nuclear programs.
 
 So we can think of \$1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the bottom of the Forbes 400 list.
 
@@ -77,8 +79,39 @@ And the worst thing you can do in the face of a land grab is—nothing. After th
 
 That bolstered Putin's power, and funded its military, and helped bring us to where we are today.
 
+If we had taken the economic actions we have since February, back in 2014, the situation would be very different. Rather than funneling more cash into Russia's hands via Nordstream, and preparing to expand it with Nordstream 2, Europe could have slashed its dependence on Russian fuels.
+
 ## Have my views on funding Ukraine changed since the beginning of the war?
 
 In a nutshell, yes, profoundly. Given Russia's vast military resources, I expected it to be over before we could react. Russian incompetence, US intelligence, and Zelinskyy's emergence as a strong wartime leader, despite his abysmal popularity rating at the start of the war were a surprise.
+
+## Is helping Ukraine in the US's best interest?
+
+Absolutely. We need international cooperation now more than ever. The end stage of climate disaster I have always feared is outbreaks war that tank any hope of addressing problems.
+
+If we allow this to stand, my fears will have materialized early.
+
+## How do I respond to arguments that it's not our fight, and we should be directing those resoures to our own problems?
+
+This argument rests on an easily-dismissed falsehood. No, let's call it a lie.
+
+Our federal deficit, and accumulaged debt, is the result of 70 years of active attack on taxes for the wealthy. The slogan "Starve the Beast" captures the intent perfectly. To force cuts in domestic spending and to promote privatization, taxes have been repeatedly cut on the wealthy, with occasional crumbs tossed to the low and middle income voters.
+
+Meanwhile, the debt mounted, because the programs they wanted to cut, were supported by a majority of Americans, often strongly.
+
+But the way we decouple appropriations from tax bills, the more politically-palatable strategy of cutting taxes was undertaken.
+
+The debt limit, established in 1939, really serves no purpose but a vehicle for political grandstanding, and recently, brinksmanship. The die is cast by the difference between revenue and expenditure.
+
+>The interest of the dealers, however, in any particular branch of trade or manufactures, is always in some respects different from, and even opposite to, that of the public. To widen the market and to narrow the competition, is always the interest of the dealers. To widen the market may frequently be agreeable enough to the interest of the public; but to narrow the competition must always be against it, and can serve only to enable the dealers, by raising their profits above what they naturally would be, to levy, for their own benefit, an absurd tax upon the rest of their fellow-citizens. The proposal of any new law or regulation of commerce which comes from this order, ought always to be listened to with great precaution, and ought never to be adopted till after having been long and carefully examined, not only with the most scrupulous, but with the most suspicious attention. It comes from an order of men, whose interest is never exactly the same with that of the public, who have generally an interest to deceive and even to oppress the public, and who accordingly have, upon many occasions, both deceived and oppressed it. \
+—Adam Smith Wealth of Nations
+
+We pay more for medications than any other developped nation. The exact same medications. Humalog insulin, produced by genetically engineered E. coli, was approved by the FDA in 1996, has gone up in price 1200%. Medical inflation is a major driver of inflation in the US.
+
+Our lack of universal, affordable healthcare, and our crumbling infrastructure, is a choice, not the result of some national poverty.
+
+As the growth in extreme wealth, while wages have stagnated, is in large part the result of our tax policy, that has been honed to fit that purpose.
+
+And as Russia amply illustrates, concentrations of economic power leads to politial power, and destroys democracy, allowing laws to be shaped to aid the accumulation of wealth and exercise of power.
 
 
