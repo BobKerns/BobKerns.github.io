@@ -61,3 +61,14 @@ When Russia expanded its invasion in February 2022, the question became, "Is the
 I believe the answer to be a resounding "No".
 
 Putin's power rests on direct or indirect control of its extraction industries, especially oil and gas, and on much of its domestic life, including the media. Independent media faced competition from state-owned media, or were swallowed up by Gazprom Media, with significant state ownership and control.
+
+For me, as an anti-war person, the issue boils down to two issues:
+
+* War is bad
+* Imperialism is the source of most non-civil wars.
+
+I'm not going to dive into imperialism here. For our purpose here, I mean it broadly. Land grabs are the most blatant example.
+
+And yes, I am deeply aware of the United States' history of imperialism. I could rant about the Dulles brothers all day long, but the United States itself is the result of a long series of land grabs. The overthrow of the Hawaian monarchy, engineered by the Dulles brothers' grandfather, John Foster, or the territories we acquired via the Spanish American War, are the last, depending on how we count.
+
+
