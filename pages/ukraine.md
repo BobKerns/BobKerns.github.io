@@ -37,18 +37,18 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 | Steven Spielberg[⁸](#8) | $4B |
 | Roger Penske (13-way tie)[⁸](#8) (#388-#400) | $2.7B |
 
-><a id=1/>  ¹Includes $12.7 Billion in drawdowns from military stockpiles, rather than current expenditures.\
-><a id=2/> ²Includes support for maintaining Ukraine hospitals, emergency services, and pensions.\
-><a id=3/> ³[Health and Human Services 2023 Budget Authorization](https://www.hhs.gov/sites/default/files/fy-2023-budget-in-brief.pdf)\
-><a id=4/> ⁴All refugees, not just Ukraine\
-><a id=5/> ⁵[Bureau of Economic Analysis 3rd Estimate](https://www.bea.gov/sites/default/files/2022-12/gdp3q22_3rd.pdf)\
-><a id=6/> ⁶Scattergood is the 850 MW power station just south of LAX airport. The existing generators were replaced with new gas turbines in 2014-2027. $950 million project cost converted to 2022 dollars.\
-><a id=7/> ⁷The NNSA is the department in the DOE responsible for maintaining and upgrading our stockpile of nuclear warheads. This does not include any of the military costs—manpower and equipment to deliver them to a target, or strategies to deliver them.\
-><a id=8/> ⁸[Forbes 400 Richest Americans (2022)](https://www.forbes.com/forbes-400/)
+><a id='1'/>  ¹Includes $12.7 Billion in drawdowns from military stockpiles, rather than current expenditures.\
+><a id='2'/> ²Includes support for maintaining Ukraine hospitals, emergency services, and pensions.\
+><a id='3'/> ³[Health and Human Services 2023 Budget Authorization](https://www.hhs.gov/sites/default/files/fy-2023-budget-in-brief.pdf)\
+><a id='4'/> ⁴All refugees, not just Ukraine\
+><a id='5'/> ⁵[Bureau of Economic Analysis 3rd Estimate](https://www.bea.gov/sites/default/files/2022-12/gdp3q22_3rd.pdf)\
+><a id='6'/> ⁶Scattergood is the 850 MW power station just south of LAX airport. The existing generators were replaced with new gas turbines in 2014-2027. $950 million project cost converted to 2022 dollars.\
+><a id='7'/> ⁷The NNSA is the department in the DOE responsible for maintaining and upgrading our stockpile of nuclear warheads. This does not include any of the military costs—manpower and equipment to deliver them to a target, or strategies to deliver them.\
+><a id='8'/> ⁸[Forbes 400 Richest Americans (2022)](https://www.forbes.com/forbes-400/)
 
-So we can think of $1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the bottom of the Forbes 400 list.
+So we can think of \$1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the bottom of the Forbes 400 list.
 
-When I was born in 1954, the top marginal tax rate in the US was 91%. Today, it stands at 37%. The 1950s were a period of economic expansion, building new, affordable homes, expanding our infrastructure. The richest person in America was Texas oilman H.L. Hunt. His income was estimated in 1954 at $2b, or about $21.8 Billion in 2022 dollars. This would put him at #28 on the Forbes 400 list.
+When I was born in 1954, the top marginal tax rate in the US was 91%. Today, it stands at 37%. The 1950s were a period of economic expansion, building new, affordable homes, expanding our infrastructure. The richest person in America was Texas oilman H.L. Hunt. His income was estimated in 1954 at \$2b, or about $21.8 Billion in 2022 dollars. This would put him at #28 on the Forbes 400 list.
 
 We have an oligarch problem that dwarf's Russia's in scale. But when the Soviet Union disolved, and its public assets privatized into a few hands, it was taken from a smaller economy, ad resulted in a much greater concentration of power. When Putin became President of Russia in 2000, I was concerned. That was magnified when he traded offices with Medvedev, becoming Prime Minister, then President again, to evade the constitutional limitation on consequetive terms.
 
@@ -76,4 +76,9 @@ To oppose war, you have to oppose imperialism, whether at home or abroad.
 And the worst thing you can do in the face of a land grab is—nothing. After the Russian grab for Ukraine began in 2014, we slapped a few sanctions. Europe continued to buy Russian gas in vast quantities.
 
 That bolstered Putin's power, and funded its military, and helped bring us to where we are today.
+
+## Have my views on funding Ukraine changed since the beginning of the war?
+
+In a nutshell, yes, profoundly. Given Russia's vast military resources, I expected it to be over before we could react. Russian incompetence, US intelligence, and Zelinskyy's emergence as a strong wartime leader, despite his abysmal popularity rating at the start of the war were a surprise.
+
 
