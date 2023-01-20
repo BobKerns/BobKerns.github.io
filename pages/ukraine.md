@@ -16,7 +16,6 @@ The relevance of this background will become clear further along.
 
 I opposed the Vietnam war. I oppose all war. The relevance of this will become clear further along.
 
-
 ## How do I feel about the American people being ask to spend fund Ukraine's defense?
 
 Let's leave the question of how I feel about the war for later questions, and focus here on putting this in context. I'll use just federal military and humanitarian aid; there are other expenditures, but they're hard to track.
@@ -24,7 +23,7 @@ Let's leave the question of how I feel about the war for later questions, and fo
 Big numbers are scary. But it's a big, wealthy country; the world's largest economy, so we need some benchmarks for comparison.
 
 | Item | Amount ($ billions) |
-| --- | ------------: |
+| :--- | ------------: |
 | US Military aid | $25.9B[¹](#1) |
 | US Humanitarian aid | $25.1B[²](#2) |
 | HHS Refugees and Unaccompanied Children[³](#3)[⁴](#4) | $6.3B |
