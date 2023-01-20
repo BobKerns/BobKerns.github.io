@@ -50,7 +50,7 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 
 So we can think of \$1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the bottom of the Forbes 400 list.
 
-When I was born in 1954, the top marginal tax rate in the US was 91%. Today, it stands at 37%. The 1950s were a period of economic expansion, building new, affordable homes, expanding our infrastructure. The richest person in America was Texas oilman H.L. Hunt. His income was estimated in 1954 at \$2b, or about $21.8 Billion in 2022 dollars. This would put him at #28 on the Forbes 400 list.
+When I was born in 1954, the top marginal tax rate in the US was 91%. Today, it stands at 37%. Capital gain pay 1/2 the rate, privileging income from owning stuff that becomes more valuable, over labor or true innovation and entrepreneurship. The 1950s were a period of economic expansion, building new, affordable homes, expanding our infrastructure. The richest person in America was Texas oilman H.L. Hunt. His income was estimated in 1954 at \$2b, or about $21.8 Billion in 2022 dollars. This would put him at #28 on the Forbes 400 list.
 
 We have an oligarch problem that dwarf's Russia's in scale. But when the Soviet Union disolved, and its public assets privatized into a few hands, it was taken from a smaller economy, ad resulted in a much greater concentration of power. When Putin became President of Russia in 2000, I was concerned. That was magnified when he traded offices with Medvedev, becoming Prime Minister, then President again, to evade the constitutional limitation on consequetive terms.
 
@@ -114,4 +114,36 @@ As the growth in extreme wealth, while wages have stagnated, is in large part th
 
 And as Russia amply illustrates, concentrations of economic power leads to politial power, and destroys democracy, allowing laws to be shaped to aid the accumulation of wealth and exercise of power.
 
+## Do I believe we should spend less, more, or the same?
 
+I can't really answer this one in a meaningful way. The need should be met. There are many approaches, and the response has been global. This is not a US issue, it is a global one.
+
+It is not a matter of just throwing money over the wall. We can't send weapons until they're built. They can't buy weapons elsewhere that haven't been built. There are supply chain constraints I can't assess, and questions of effectiveness that are far beyond my understanding.
+
+But Russia must be expelled. If they succeed, it must be at great and permanent cost.
+
+## What else should we be doing?
+
+We haven't gone nearly far enough in our economic sanctions. Had we taken the issue seriously in 2014, we would not face the energy supply issues that have weakened them.
+
+But Russia, as constituted today, cannot be allowed to participate in world affairs.
+
+We must heed the lessons of World War I. An impoverished Russia is a danger in its own right. There should be a path for a reconstituted Russia to reenter the world.
+
+In the meantime, it is a travesty that Russia sits on the UN Security Council.
+
+The Security Council itself is a travesty.
+
+We need a new world order, in which imperialism is met with a world united against it. It should have happend long ago.
+
+We urgently need to denuclearize. The US should lead the way unilaterally, meeting each reciprocation with further steps.
+
+We need to prepare to rebuilt Ukraine, and eventually, Russia. But there are other war-torn countries which need this today.
+
+We should not allow Ukraine to distract us from solving other problems. China's foreign policy has been more focused on economic development (albeit with motives not entirely altruistic). The damage done to Africa by European colonists and exploiters is still felt today.
+
+We (and the Iranian people) face consequences in Iran that ultimately reach back to 1953 and Kermit Roosevelt. Our Latin America policies under the Dulles brothers got us Che Guevara and Fidel Castro. Che was in Guatemala when Unitied Fruit, via the CIA and State Department under the Dulles brothers, overthrew the democratically elected president, Arbenz.
+
+A United States focused on a more equitable world, can bring together more support to oppose Russia. Russia exploits the existing inequities, as it long did with educating African and Latin American students.
+
+And as we have
