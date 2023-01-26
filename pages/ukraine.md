@@ -50,7 +50,9 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 ><a id='8'/> ⁸[Forbes 400 Richest Americans (2022)](https://www.forbes.com/forbes-400/)\
 ><a id='9'> ⁹Does not include non-DOD expenditures, such as the DOE nuclear programs.
 
-So we can think of \$1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the bottom of the Forbes 400 list.
+So we can think of \$1B as about the cost of an 850 MW power plant, like Russia is blowing up in Ukraine, or about 37% of the wealth of any one of the people at the _bottom_.              of the Forbes 400 list.
+
+It is difficult to compare military budgets. In the US, China, and Russia, the official budget fails to capture major segments of spending. But the trillions we have spent on our war machinery over the past decades is meaningless, even as a deterrent, if we fail to respond to Russia's invasion.
 
 When I was born in 1954, the top marginal tax rate in the US was 91%. Today, it stands at 37%. Capital gain pay 1/2 the rate, privileging income from owning stuff that becomes more valuable, over labor or true innovation and entrepreneurship. The 1950s were a period of economic expansion, building new, affordable homes, expanding our infrastructure. The richest person in America was Texas oilman H.L. Hunt. His income was estimated in 1954 at \$2b, or about $21.8 Billion in 2022 dollars. This would put him at #28 on the Forbes 400 list.
 
@@ -77,11 +79,15 @@ And yes, I am deeply aware of the United States' history of imperialism. I could
 
 To oppose war, you have to oppose imperialism, whether at home or abroad.
 
-And the worst thing you can do in the face of a land grab is—nothing. After the Russian grab for Ukraine began in 2014, we slapped a few sanctions. Europe continued to buy Russian gas in vast quantities.
+The worst thing you can do in the face of a land grab is—_nothing_. After the Russian grab for Ukraine began in 2014, we slapped a few sanctions. Europe continued to buy Russian gas in vast quantities.
 
 That bolstered Putin's power, and funded its military, and helped bring us to where we are today.
 
 If we had taken the economic actions we have since February, back in 2014, the situation would be very different. Rather than funneling more cash into Russia's hands via Nordstream, and preparing to expand it with Nordstream 2, Europe could have slashed its dependence on Russian fuels.
+
+Nonviolent action is always preferred. We (the world) passed up those opportunities. But to fail to resist genocide is to abet it. We failed to resist for too long.
+
+
 
 ## Have my views on funding Ukraine changed since the beginning of the war?
 
