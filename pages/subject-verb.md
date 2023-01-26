@@ -1,4 +1,4 @@
-# On subject/verb agreement in the face of "number/of"
+# On subject/verb agreement in the face of "number of"
 
 One of my favorite webcomics is [Past Utopia](https://pastutopia.com/). It is a masterpiece of world-building, with a community of readers who delve deeply into the details.
 
