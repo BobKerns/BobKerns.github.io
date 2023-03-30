@@ -1,11 +1,15 @@
-# A Conversaion With ChatGPT About Attention.
+---
+title: "A Conversaion With ChatGPT About Attention"
+tags: ChatGPT
+---
+
+<!-- markdownlint-disable MD026 MD036 -->
 
 The topic of attention[^1] came up in my household. Since ChatGPT is based on an attention mechanism[^2], I thought I would ask ChatGPT[^3] for its thoughts.
 
 I'm quite impressed. No, actually, I'm blown away!
 
 Here is the exchange, unediuted except for format.[^4]
-
 
 ----
 

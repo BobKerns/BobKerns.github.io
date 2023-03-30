@@ -1,4 +1,7 @@
-# ChatGPT-4 Writes a Game Narrative
+---
+title: "ChatGPT-4 Writes a Game Narrative"
+tags: ChatGPT
+---
 
 <!-- markdownlint-disable MD026 MD036 -->
 
