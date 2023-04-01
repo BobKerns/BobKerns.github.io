@@ -8,36 +8,48 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 4.3.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+gem "minima", "~> 2.5.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
- gem "github-pages", "~> 215", group: :jekyll_plugins
+ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-theme-tactile", "~> 0.1.1"
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-theme-tactile", "~> 0.2.0"
+  gem "jekyll-seo-tag", "~> 2.8.0"
+  gem "jekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-gist", "~> 1.5.0"
+  gem "jekyll-mentions", "~> 1.6"
+  gem "jekyll-github-metadata", "~> 2,15.0"
+  gem "jekyll-readme-index", "~> 0.3.0"
+  gem "jekyll-relative-lknks", "~> 0.7.0"
+  gem "jemoji", "~> 0.13.0"
+  gem "jekyll-drawio", "~> 0.0.5"
+  gem "jekyll-furigana", "~> 1.0.0"
+  gem "jekyll-jupyter-notebook", "~> 0.0.5"
+  gem "jekyll-shallow-commit", ""~> 0.0.3"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "~> 2.0.6"
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
+gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # kramdown v2 ships without the gfm parser by default. If you're using
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8.1"
 
 gem "netrc"
