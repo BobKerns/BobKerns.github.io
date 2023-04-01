@@ -22,6 +22,8 @@ url: "https://bobkerns.github.io" # the base hostname & protocol for your site, 
 twitter_username: BobKerns
 github_username:  BobKerns
 permalink: pretty
+show_excerpts: true
+page_excerpts: true
 
 defaults:
   -
@@ -33,22 +35,32 @@ defaults:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-theme-tactile
   - jekyll-github-metadata
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jemoji
+  - jekyll-jupyter-notebook
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - bin/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+
+relative_links:
+  enabled:     true
+  collections: true
