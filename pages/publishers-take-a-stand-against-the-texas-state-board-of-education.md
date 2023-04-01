@@ -1,9 +1,13 @@
 ---
 title: "Publishers: Stand up to the Texas State Board of Education"
-tags: texas GOP religion education
+tags:
+    - texas
+    - GOP
+    - religion
+    - education
+description: |-
+    [March 19, 2010] Urge textook publishers to take a stand against the Texas Board of Eduction
 ---
-[March 19, 2010](/pages/publishers-take-a-stand-against-the-texas-state-board-of-education.html)
-
 Eric Mann pointed me at a [Credo Action-sponsored mailing campaign](https://act.credoaction.com/campaign/textbooks/) to the major textbook publishers.
 
 This is a way YOU can make a lasting difference in our education system.

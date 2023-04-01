@@ -1,6 +1,8 @@
 ---
 title: "A Conversaion With ChatGPT About Attention"
 tags: ChatGPT
+excerpt_separator: <!--more-->
+description: The topic of attention came up in my household. Since ChatGPT is based on an attention mechanism, I thought I would ask ChatGPT for its thoughts.
 ---
 
 <!-- markdownlint-disable MD026 MD036 -->
@@ -9,13 +11,13 @@ The topic of attention[^1] came up in my household. Since ChatGPT is based on an
 
 I'm quite impressed. No, actually, I'm blown away!
 
-Here is the exchange, unediuted except for format.[^4]
+Here is the exchange, unedited except for format.[^4]
 
 ----
 
 ## Q: Explain in simple language how attention, focus, and understanding relate to each other.
 
-Attention, focus, and understanding are closely related to each other. Attention is the ability to select and concentrate on one particular thing or task, while focus is the ability to maintain that attention over a period of time. Understanding, on the other hand, is the ability to comprehend and make sense of what is being attended to and focused on
+Attention, focus, and understanding are closely related to each other. Attention is the ability to select and concentrate on one particular thing or task, while focus is the ability to maintain that attention over a period of time. Understanding, on the other hand, is the ability to comprehend and make sense of what is being attended to and focused on.
 
 In other words, attention and focus are the building blocks of understanding. Without attention and focus, it's difficult to fully understand and process information. For example, if you're trying to learn a new concept but your mind keeps wandering, you're not able to pay attention and focus on the information long enough to fully understand it.
 

@@ -1,6 +1,11 @@
 ---
 title: "ChatGPT-4 Writes a Game Narrative"
 tags: ChatGPT
+description: |-
+  <b>Q: Write a game narrative for a cooperative adventure through a surreal landscape.</b><br>
+  <b>A: Title: Echoes of Dreamweave</b><br>
+  <i>The game is set in the realm of Dreamweave, a surreal landscape created by the collective dreams, hopes, and fears of humanity. This world is a kaleidoscope of vibrant colors, ever-shifting terrains, and fantastical creatures. The sky is a swirling vortex of dream energy, and the horizon is an ever-changing blend of reality and imagination.</i><br>
+  …
 ---
 
 <!-- markdownlint-disable MD026 MD036 -->
