@@ -61,6 +61,12 @@ a.navigation:visited {
     color: blue !important;
 }
 
+
+sup a.footnote {
+    font-size: 75%;
+    vertical-align: super;
+}
+
 nav {
     max-width: 100%;
     display: flex;
