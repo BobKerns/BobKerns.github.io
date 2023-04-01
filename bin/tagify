@@ -4,6 +4,8 @@
 cd "$(git rev-parse --show-toplevel)" || exit -1
 
 # Extract tags from the frontmatter of a file.
+# `tags:`` supports multiple space-seperated tags
+# `tag:` is one tag per occurance, but alows spaces in the tag.
 extract() {
     sed -nE '
 /^---$/!q;n;
@@ -23,7 +25,7 @@ extract() {
 }
 n
 bnext
-' $*
+' "$*"
 }
 
 # Scan a directory for .md files to process
@@ -34,10 +36,10 @@ scan() {
 }
 
 # Collect the tags from our candidate files.
-# These are currently *.md in the root and under _posts/ and _pages/
+# These are currently *.md in the root and under _posts/ and pages/
 # This won't handle subdirs used to denote post categories.
 collect() {
-    (ls *.md ; scan _posts ; scan _pages) | (
+    (ls *.md ; scan _posts ; scan pages) | (
         while read fn; do
             extract "${fn}"
         done;
