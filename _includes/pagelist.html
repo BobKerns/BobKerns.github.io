@@ -1,5 +1,5 @@
 <div id="pagelist" class='pages items'>
-    <div class='listhead'>Pages</div>
+    <!-- <div class='listhead'>Pages</div> -->
     {% for page in site.pages %}
         {% assign item_type = (page.path | split: "/" | first) %}
         {% if item_type == "pages" %}
@@ -11,7 +11,7 @@
             </div>
             <a href="{{ page.url }}">
                 <blockquote>
-                    {{ page.excerpt }}
+                    {{ page.description | nl_to_br | default: page.excerpt }}
                 </blockquote>
             </a>
             {% assign item = page %}

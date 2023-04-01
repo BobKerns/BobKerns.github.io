@@ -9,7 +9,7 @@
             </div>
             <a href="{{ post.url }}">
                 <blockquote>
-                    {{ post.excerpt }}
+                    {{ post.description | nl_to_br | default: post.excerpt }}
                 </blockquote>
             </a>
             {% assign item = post %}
