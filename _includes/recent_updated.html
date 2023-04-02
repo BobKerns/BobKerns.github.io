@@ -1,8 +1,14 @@
+<div class=":recent-updated">
+  <h3>Recent Updates:</h3>
+
 <ul>
 {% assign recentPages = site.pages | sort: 'last_modified_at' | reverse %}
 {% for page in recentPages limit:10 %}
+  {% if page.path contains 'pages' %}
   <li>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ page.url }}">{{ page.title }} ({{ page.last_modified_at }})</a>
   </li>
+  {% endif %}
 {% endfor %}
 </ul>
+</div>
