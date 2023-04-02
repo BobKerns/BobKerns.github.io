@@ -25,6 +25,8 @@ permalink: pretty
 show_excerpts: true
 page_excerpts: true
 
+repository: bobkerns/bogkerns.github.io
+
 defaults:
   -
     scope:
