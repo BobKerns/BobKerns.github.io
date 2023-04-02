@@ -17,6 +17,16 @@ extract() {
     s/[ ]+/\
 /g
     p
+    n
+:nextTag
+/^[ ]+-/!q
+{
+    s/^[ ]+-[ ]*//
+    s/[ ]*$//
+    p
+    n
+    bnextTag
+    }
 }
 /^tag:/{
     s/^tag:[ ]*//
@@ -25,7 +35,7 @@ extract() {
 }
 n
 bnext
-' "$*"
+' "$*" | egrep -v '^$'
 }
 
 # Scan a directory for .md files to process

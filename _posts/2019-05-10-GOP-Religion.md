@@ -2,7 +2,12 @@
 layout: post
 title: "The GOP Religion"
 date: 2019-05-10 09:27:00 -0000
-tags: GOP religion current-affairs steve-king bob-kerns
+tags:
+  - GOP
+  - religion
+  - current-affairs
+  - steve-king
+  - bob-kerns
 excerpt_separator: <!--more-->
 ---
 In response to some nonsense or other from Steve King \[R-IA4], in November 2017, I wrote the following.

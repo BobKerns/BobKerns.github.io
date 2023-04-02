@@ -3,10 +3,10 @@ title:  On Ukraine
 layout: page
 excerpt_separator: <!--more-->
 tags:
-    - Ukraine
-    - Russia
-    - War
-    - Peace
+  - Russia
+  - Ukraine
+  - War
+  - Peace
 ---
 I've been asked about my views on Ukraine, and US aid to Ukraine. I have a _lot_ of opinions on this; too many to capture.
 
