@@ -30,6 +30,9 @@ group :jekyll_plugins do
   gem "jemoji", "~> 0.13.0"
   gem "jekyll-furigana", "~> 1.0.0"
   gem "jekyll-jupyter-notebook", "~> 0.0.5"
+  gem "jekyll-optional-front-matter", "~> 0.3.2"
+  gem "jekyll-titles-from-headings", "~> 0.5.3"
+  gem "jekyll-default-layout", "~> 0.1.5"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

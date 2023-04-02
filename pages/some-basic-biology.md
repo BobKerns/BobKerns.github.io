@@ -1,6 +1,14 @@
-# Some Basic Biology about mRNA
-
+---
+title: Some Basic Biology about mRNA
+layout: page
+excerpt_separator: <!--more-->
+tags:
+       - mRNA
+       - biology
+---
 There are many reasons why someone might fail to learn this basic biology in 7th grade science class. If you are out sick with a virus, you might not learn about how viruses work!
+
+<!--more-->
 
 So a bit of remediation, so you can understand this tweet.
 

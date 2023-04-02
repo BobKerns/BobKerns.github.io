@@ -1,5 +1,6 @@
 ---
 title: "Publishers: Stand up to the Texas State Board of Education"
+layout: page
 tags:
     - texas
     - GOP

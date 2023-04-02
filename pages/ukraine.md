@@ -1,6 +1,16 @@
-# Ukraine
-
+---
+title:  On Ukraine
+layout: page
+excerpt_separator: <!--more-->
+tags:
+    - Ukraine
+    - Russia
+    - War
+    - Peace
+---
 I've been asked about my views on Ukraine, and US aid to Ukraine. I have a _lot_ of opinions on this; too many to capture.
+
+<!--more-->
 
 ## Background
 
@@ -8,7 +18,7 @@ I am not your typical American.
 
 Before addressing the questions, let me give a sense of how I come to these views.
 
-In 1970, I wrote Senator Harold Hughes (IA-D), asking for a subscription to the Congressional Record. That was my firehose introduction to a legislative-oriented view of the US political process. By the time I left for MIT in 1972, I had amased a wall of cheap newsprint, bound with staples, more arriving on a nearly weekly basis. Filled with minutae, bills,grandstanding, they varried from a slim ¼ inch to many times that, depending largely on what materials members of Congress chose to "read" into the record (i.e. ordered inserted into the Record as if read).
+In 1970, I wrote Senator Harold Hughes (IA-D), asking for a subscription to the Congressional Record. That was my firehose introduction to a legislative-oriented view of the US political process. By the time I left for MIT in 1972, I had amased a wall of cheap newsprint, bound with staples, more arriving on a nearly weekly basis. Filled with minutae, bills,grandstanding, they varied from a slim ¼ inch to many times that, depending largely on what materials members of Congress chose to "read" into the record (i.e. ordered inserted into the Record as if read).
 
 In 1971, Daniel Elseberg, a senior research associate at MIT's Center for International Studies, leaked the [Pentagon Papers](https://www.archives.gov/research/pentagon-papers) to the New York Times and the Washington Post. While these papers were tied up in the courts over prior restraint, Ellsberg passed a copy to Senator Mike Gravel (AK-D). Denied the opportunity to read the on the floor, he convened a subcommitte hearing in which he read them into the record, followed by [this emotional commentary](https://youtu.be/bWwDGvBSUYk) (which I did not discover until the Era of YouTube).
 

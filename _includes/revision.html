@@ -1,0 +1,10 @@
+{% if page.revisions.size > 0 %}
+<section>
+  {% for rev in page.revisions %}
+    <div class="revision">
+      <div class="post-meta">{{ rev.date | date_to_string }} -
+      <span class="post-author">{{ rev.author }}</span> - {{ rev.id }}</div>
+    </div
+  {% endfor %}
+</section>
+{% endif %}

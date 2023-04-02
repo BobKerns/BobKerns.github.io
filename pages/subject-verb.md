@@ -1,6 +1,13 @@
-# On subject/verb agreement in the face of "number of"
-
+---
+title:  On subject/verb agreement in the face of "number of"
+layout: page
+excerpt_separator: <!--more-->
+tags:
+    - lqnguage
+---
 One of my favorite webcomics is [Past Utopia](https://pastutopia.com/). It is a masterpiece of world-building, with a community of readers who delve deeply into the details.
+
+<!--more-->
 
 The [January 23, 2023 page](https://pastutopia.com/comic/comic-for-monday-january-23rd-2023/#comment-322847), includes this phrase:
 

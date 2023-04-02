@@ -47,6 +47,9 @@ plugins:
   - jekyll-relative-links
   - jemoji
   - jekyll-jupyter-notebook
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -64,3 +67,5 @@ exclude:
 relative_links:
   enabled:     true
   collections: true
+
+layout: default

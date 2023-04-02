@@ -1,6 +1,8 @@
 ---
-title: "A Conversaion With ChatGPT About Attention"
-tags: ChatGPT
+title: "A Conversation With ChatGPT About Attention"
+layout: page
+tags: 
+    - ChatGPT
 excerpt_separator: <!--more-->
 description: The topic of attention came up in my household. Since ChatGPT is based on an attention mechanism, I thought I would ask ChatGPT for its thoughts.
 ---

@@ -6,7 +6,7 @@
         <div class="page item">
             <div class="posthead">
                 <a href="{{ page.url }}">{{ page.title }}
-                    <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span>
+                    <span class="date">{{ page.date | default: page.last_modified_at | date: "%Y-%m-%d" }}</span>
                 </a>
             </div>
             <a href="{{ page.url }}">

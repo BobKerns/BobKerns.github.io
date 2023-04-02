@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<small>{{ page.last_modified_at | default: site.time | date: "%Y-%m-%d" }}</small>
+<h2>{{ page.title }}</h2>
+
 {{ content }}
 
 {% include tagref.html %}
+
+{% include revision.html %}
