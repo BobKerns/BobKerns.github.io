@@ -1,14 +1,14 @@
 ---
-title: ChatGPT Writes Legislation
+title: "ChatGPT Writes Legislation"
 date: 2023-04-08
 layout: page
 tags:
   - ChatGPT
-  - AO
+  - AI
   - Politics
 description: |-
 I ask ChatGPT to write a bill to maximize donors and position me as tough on immigration yet compassionate.
-----
+---
 
 ## Q: Write me model legislation that curries favor with campaign donors, and makes me seem tough on immigration, yet compassionate.
 
