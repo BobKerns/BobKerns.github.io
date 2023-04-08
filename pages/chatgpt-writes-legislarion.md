@@ -1,4 +1,3 @@
-
 ---
 title: ChatGPT Writes Legislation
 date: 2023-04-08
