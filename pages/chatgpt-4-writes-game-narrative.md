@@ -3,6 +3,7 @@ title: "ChatGPT-4 Writes a Game Narrative"
 layout: page
 tags:
    - ChatGPT
+   - AI
 description: |-
   <b>Q: Write a game narrative for a cooperative adventure through a surreal landscape.</b><br>
   <b>A: Title: Echoes of Dreamweave</b><br>
