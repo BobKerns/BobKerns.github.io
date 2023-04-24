@@ -37,6 +37,8 @@ jobs:
         run: bin/tagify
       - name: Install OpenSSL
         run: sudo apt-get install libssl-dev
+      - name: Install Jupyter
+        run: pip install jupyterlab
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1 # v1.127.0
         with:
