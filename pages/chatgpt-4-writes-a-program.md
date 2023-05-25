@@ -945,5 +945,4 @@ You are right, entry is redundant in this case, as it is the same as path. Here'
 
 ```python
 def reset_dates(parent_path: Union[str, Path], json_data: Dict[str, Union[str, float, Dict]]) ->
-
 ```
