@@ -3,10 +3,10 @@ title: "Q: Why is it so hard for old people to understand how incredible the tec
 date: 2017-09-20
 layout: page
 tags:
-    - History
-    - Technology
-    - Personal
-    - Quora
+  - History
+  - Technology
+  - Personal
+  - Quora
 description: |-
 In which I establish that it is we old folks who understand just how incredible
 modern technology really is.

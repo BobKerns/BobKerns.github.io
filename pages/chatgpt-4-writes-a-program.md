@@ -2,8 +2,8 @@
 title: "ChatGPT writes python code"
 layout: page
 tags: 
- - ChatGPT
- - Python
+  - ChatGPT
+  - Python
 excerpt_separator: <!--more-->
 description: |-
 I asked ChatGPT 4 to write me some useful python code. It took a bit of mentoring.
