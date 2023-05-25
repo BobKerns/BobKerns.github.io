@@ -6,6 +6,9 @@ tags:
        - mRNA
        - biology
 ---
+
+<!-- markdownlint-disable MD033 -->
+
 There are many reasons why someone might fail to learn this basic biology in 7th grade science class. If you are out sick with a virus, you might not learn about how viruses work!
 
 <!--more-->
@@ -184,10 +187,11 @@ Individual variants have mutations that can make alter how well the spike protei
 
 Here's a map of where the proteins are coded:
 
-![SARS-Cov-2 Proteme](../assets/images/SARS-CoV-2-proteome.jpg)
+![SARS-Cov-2 Proteome](../assets/images/SARS-CoV-2-proteome.jpg)
 
 Here's a more detailed view:
 
+<!-- markdownlint-disable MD033 -->
 <iframe id="iframe_xjngj" width="2794" src="https://www.ncbi.nlm.nih.gov/projects/sviewer/embedded_iframe.html?iframe=iframe_xjngj&report=graph&tracks=[key:sequence_track,name:Sequence,display_name:Sequence,id:STD649220238,annots:Sequence,ShowLabel:false,ColorGaps:false,shown:true,order:1][key:gene_model_track,name:Genes,display_name:Genes,id:STD3194982005,annots:Unnamed,Options:ShowAll,CDSProductFeats:true,NtRuler:true,AaRuler:true,HighlightMode:2,ShowLabel:true,shown:true,order:4][key:feature_track,name:Other features---3'UTR,display_name:3'UTR Features,id:STD374084447,subkey:3'UTR,annots:Unnamed,shown:true,order:5][key:feature_track,name:Other features---5'UTR,display_name:5'UTR Features,id:STD2600439000,subkey:5'UTR,annots:Unnamed,shown:true,order:6]&v=1:29903&c=000080&select=null&slim=0&appname=no_appname" onload="if(!window._SViFrame){_SViFrame=true;window.addEventListener('message',function(e){if(e.origin=='https://www.ncbi.nlm.nih.gov' && !isNaN(e.data.h))document.getElementById(e.data.f).height=parseInt(e.data.h);});}">
 </iframe>
 
