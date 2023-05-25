@@ -18,9 +18,9 @@ I am not your typical American.
 
 Before addressing the questions, let me give a sense of how I come to these views.
 
-In 1970, I wrote Senator Harold Hughes (IA-D), asking for a subscription to the Congressional Record. That was my firehose introduction to a legislative-oriented view of the US political process. By the time I left for MIT in 1972, I had amased a wall of cheap newsprint, bound with staples, more arriving on a nearly weekly basis. Filled with minutae, bills,grandstanding, they varied from a slim ¼ inch to many times that, depending largely on what materials members of Congress chose to "read" into the record (i.e. ordered inserted into the Record as if read).
+In 1970, I wrote Senator Harold Hughes (IA-D), asking for a subscription to the Congressional Record. That was my firehose introduction to a legislative-oriented view of the US political process. By the time I left for MIT in 1972, I had amassed a wall of cheap newsprint, bound with staples, more arriving on a nearly weekly basis. Filled with minutiae, bills,grandstanding, they varied from a slim ¼ inch to many times that, depending largely on what materials members of Congress chose to "read" into the record (i.e. ordered inserted into the Record as if read).
 
-In 1971, Daniel Elseberg, a senior research associate at MIT's Center for International Studies, leaked the [Pentagon Papers](https://www.archives.gov/research/pentagon-papers) to the New York Times and the Washington Post. While these papers were tied up in the courts over prior restraint, Ellsberg passed a copy to Senator Mike Gravel (AK-D). Denied the opportunity to read the on the floor, he convened a subcommitte hearing in which he read them into the record, followed by [this emotional commentary](https://youtu.be/bWwDGvBSUYk) (which I did not discover until the Era of YouTube).
+In 1971, Daniel Ellsberg, a senior research associate at MIT's Center for International Studies, leaked the [Pentagon Papers](https://www.archives.gov/research/pentagon-papers) to the New York Times and the Washington Post. While these papers were tied up in the courts over prior restraint, Ellsberg passed a copy to Senator Mike Gravel (AK-D). Denied the opportunity to read the on the floor, he convened a subcommittee hearing in which he read them into the record, followed by [this emotional commentary](https://youtu.be/bWwDGvBSUYk) (which I did not discover until the Era of YouTube).
 
 The relevance of this background will become clear further along.
 
@@ -50,6 +50,8 @@ Big numbers are scary. But it's a big, wealthy country; the world's largest econ
 | Steven Spielberg[⁸](#8) | $4B |
 | Roger Penske (13-way tie)[⁸](#8) (#388-#400) | $2.7B |
 
+<!-- markdownlint-disable MD033 -->
+
 ><a id='1'/>  ¹Includes $12.7 Billion in drawdowns from military stockpiles, rather than current expenditures.\
 ><a id='2'/> ²Includes support for maintaining Ukraine hospitals, emergency services, and pensions.\
 ><a id='3'/> ³[Health and Human Services 2023 Budget Authorization](https://www.hhs.gov/sites/default/files/fy-2023-budget-in-brief.pdf)\
@@ -66,7 +68,7 @@ It is difficult to compare military budgets. In the US, China, and Russia, the o
 
 When I was born in 1954, the top marginal tax rate in the US was 91%. Today, it stands at 37%. Capital gain pay 1/2 the rate, privileging income from owning stuff that becomes more valuable, over labor or true innovation and entrepreneurship. The 1950s were a period of economic expansion, building new, affordable homes, expanding our infrastructure. The richest person in America was Texas oilman H.L. Hunt. His income was estimated in 1954 at \$2b, or about $21.8 Billion in 2022 dollars. This would put him at #28 on the Forbes 400 list.
 
-We have an oligarch problem that dwarf's Russia's in scale. But when the Soviet Union disolved, and its public assets privatized into a few hands, it was taken from a smaller economy, ad resulted in a much greater concentration of power. When Putin became President of Russia in 2000, I was concerned. That was magnified when he traded offices with Medvedev, becoming Prime Minister, then President again, to evade the constitutional limitation on consequetive terms.
+We have an oligarch problem that dwarf's Russia's in scale. But when the Soviet Union dissolved, and its public assets privatized into a few hands, it was taken from a smaller economy, ad resulted in a much greater concentration of power. When Putin became President of Russia in 2000, I was concerned. That was magnified when he traded offices with Medvedev, becoming Prime Minister, then President again, to evade the constitutional limitation on consecutive terms.
 
 Any hopes that Russia would finally join the world w/ a functioning democracy were dashed when Putin got his constitutional amendment in 2020 allowing him to retain power.
 
@@ -85,7 +87,7 @@ For me, as an anti-war person, the issue boils down to two issues:
 
 I'm not going to dive into imperialism here. For our purpose here, I mean it broadly. Land grabs are the most blatant example.
 
-And yes, I am deeply aware of the United States' history of imperialism. I could rant about the Dulles brothers all day long, but the United States itself is the result of a long series of land grabs. The overthrow of the Hawaian monarchy, engineered by the Dulles brothers' grandfather, John Foster, or the territories we acquired via the Spanish American War, are the last, depending on how we count.
+And yes, I am deeply aware of the United States' history of imperialism. I could rant about the Dulles brothers all day long, but the United States itself is the result of a long series of land grabs. The overthrow of the Hawaiian monarchy, engineered by the Dulles brothers' grandfather, John Foster, or the territories we acquired via the Spanish American War, are the last, depending on how we count.
 
 To oppose war, you have to oppose imperialism, whether at home or abroad.
 
@@ -97,8 +99,6 @@ If we had taken the economic actions we have since February, back in 2014, the s
 
 Nonviolent action is always preferred. We (the world) passed up those opportunities. But to fail to resist genocide is to abet it. We failed to resist for too long.
 
-
-
 ## Have my views on funding Ukraine changed since the beginning of the war?
 
 In a nutshell, yes, profoundly. Given Russia's vast military resources, I expected it to be over before we could react. Russian incompetence, US intelligence, and Zelinskyy's emergence as a strong wartime leader, despite his abysmal popularity rating at the start of the war were a surprise.
@@ -109,28 +109,28 @@ Absolutely. We need international cooperation now more than ever. The end stage 
 
 If we allow this to stand, my fears will have materialized early.
 
-## How do I respond to arguments that it's not our fight, and we should be directing those resoures to our own problems?
+## How do I respond to arguments that it's not our fight, and we should be directing those resources to our own problems?
 
 This argument rests on an easily-dismissed falsehood. No, let's call it a lie.
 
-Our federal deficit, and accumulaged debt, is the result of 70 years of active attack on taxes for the wealthy. The slogan "Starve the Beast" captures the intent perfectly. To force cuts in domestic spending and to promote privatization, taxes have been repeatedly cut on the wealthy, with occasional crumbs tossed to the low and middle income voters.
+Our federal deficit, and accumulated debt, is the result of 70 years of active attack on taxes for the wealthy. The slogan "Starve the Beast" captures the intent perfectly. To force cuts in domestic spending and to promote privatization, taxes have been repeatedly cut on the wealthy, with occasional crumbs tossed to the low and middle income voters.
 
 Meanwhile, the debt mounted, because the programs they wanted to cut, were supported by a majority of Americans, often strongly.
 
 But the way we decouple appropriations from tax bills, the more politically-palatable strategy of cutting taxes was undertaken.
 
-The debt limit, established in 1939, really serves no purpose but a vehicle for political grandstanding, and recently, brinksmanship. The die is cast by the difference between revenue and expenditure.
+The debt limit, established in 1939, really serves no purpose but a vehicle for political grandstanding, and recently, brinkmanship. The die is cast by the difference between revenue and expenditure.
 
 >The interest of the dealers, however, in any particular branch of trade or manufactures, is always in some respects different from, and even opposite to, that of the public. To widen the market and to narrow the competition, is always the interest of the dealers. To widen the market may frequently be agreeable enough to the interest of the public; but to narrow the competition must always be against it, and can serve only to enable the dealers, by raising their profits above what they naturally would be, to levy, for their own benefit, an absurd tax upon the rest of their fellow-citizens. The proposal of any new law or regulation of commerce which comes from this order, ought always to be listened to with great precaution, and ought never to be adopted till after having been long and carefully examined, not only with the most scrupulous, but with the most suspicious attention. It comes from an order of men, whose interest is never exactly the same with that of the public, who have generally an interest to deceive and even to oppress the public, and who accordingly have, upon many occasions, both deceived and oppressed it. \
 —Adam Smith Wealth of Nations
 
-We pay more for medications than any other developped nation. The exact same medications. Humalog insulin, produced by genetically engineered E. coli, was approved by the FDA in 1996, has gone up in price 1200%. Medical inflation is a major driver of inflation in the US.
+We pay more for medications than any other developed nation. The exact same medications. Humalog insulin, produced by genetically engineered E. coli, was approved by the FDA in 1996, has gone up in price 1200%. Medical inflation is a major driver of inflation in the US.
 
 Our lack of universal, affordable healthcare, and our crumbling infrastructure, is a choice, not the result of some national poverty.
 
 As the growth in extreme wealth, while wages have stagnated, is in large part the result of our tax policy, that has been honed to fit that purpose.
 
-And as Russia amply illustrates, concentrations of economic power leads to politial power, and destroys democracy, allowing laws to be shaped to aid the accumulation of wealth and exercise of power.
+And as Russia amply illustrates, concentrations of economic power leads to political power, and destroys democracy, allowing laws to be shaped to aid the accumulation of wealth and exercise of power.
 
 ## Do I believe we should spend less, more, or the same?
 
@@ -152,7 +152,7 @@ In the meantime, it is a travesty that Russia sits on the UN Security Council.
 
 The Security Council itself is a travesty.
 
-We need a new world order, in which imperialism is met with a world united against it. It should have happend long ago.
+We need a new world order, in which imperialism is met with a world united against it. It should have happened long ago.
 
 We urgently need to denuclearize. The US should lead the way unilaterally, meeting each reciprocation with further steps.
 
@@ -160,7 +160,7 @@ We need to prepare to rebuilt Ukraine, and eventually, Russia. But there are oth
 
 We should not allow Ukraine to distract us from solving other problems. China's foreign policy has been more focused on economic development (albeit with motives not entirely altruistic). The damage done to Africa by European colonists and exploiters is still felt today.
 
-We (and the Iranian people) face consequences in Iran that ultimately reach back to 1953 and Kermit Roosevelt. Our Latin America policies under the Dulles brothers got us Che Guevara and Fidel Castro. Che was in Guatemala when Unitied Fruit, via the CIA and State Department under the Dulles brothers, overthrew the democratically elected president, Arbenz.
+We (and the Iranian people) face consequences in Iran that ultimately reach back to 1953 and Kermit Roosevelt. Our Latin America policies under the Dulles brothers got us Che Guevara and Fidel Castro. Che was in Guatemala when United Fruit, via the CIA and State Department under the Dulles brothers, overthrew the democratically elected president, Arbenz.
 
 A United States focused on a more equitable world, can bring together more support to oppose Russia. Russia exploits the existing inequities, as it long did with educating African and Latin American students.
 
