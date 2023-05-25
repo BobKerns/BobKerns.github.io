@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 description: |-
 I asked ChatGPT 4 to write me some useful python code. It took a bit of mentoring.
 ---
+
 ## Me 1
 
 Write me a python3 function that collects the modification date and creation date of all the files and directories in a tree as JSON data, and another routine to reset a tree to those same dates.

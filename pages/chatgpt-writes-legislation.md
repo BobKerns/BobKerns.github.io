@@ -10,7 +10,7 @@ description: |-
  I ask ChatGPT to write a bill to maximize donors and position me as tough on immigration yet compassionate.
 ---
 
-## Q: Write me model legislation that curries favor with campaign donors, and makes me seem tough on immigration, yet compassionate.
+## Q: Write me model legislation that curries favor with campaign donors, and makes me seem tough on immigration, yet compassionate
 
 ## A: Title: The Balanced Immigration and Community Empowerment Act (BICEA)
 
