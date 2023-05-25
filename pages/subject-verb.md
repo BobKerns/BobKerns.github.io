@@ -5,6 +5,8 @@ excerpt_separator: <!--more-->
 tags:
     - language
 ---
+<!-- markdownlint-disable MD033 -->
+
 One of my favorite webcomics is [Past Utopia](https://pastutopia.com/). It is a masterpiece of world-building, with a community of readers who delve deeply into the details.
 
 <!--more-->
