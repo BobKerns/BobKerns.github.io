@@ -1,5 +1,5 @@
 ---
-title: Q: Why is it so hard for old people to understand how incredible the technology of today is?
+title: "Q: Why is it so hard for old people to understand how incredible the technology of today is?"
 date: 2017-09-20
 layout: page
 tags:
