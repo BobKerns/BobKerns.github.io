@@ -8,5 +8,15 @@
         "**/Thumbs.db": true,
         "**/*.crswap": true
     },
-    "hide-files.files": []
+    "hide-files.files": [],
+    "cSpell.words": [
+        "abspath",
+        "docstrings",
+        "elif",
+        "listdir",
+        "nonlocal",
+        "pathlib",
+        "Quora",
+        "utime"
+    ]
 }
