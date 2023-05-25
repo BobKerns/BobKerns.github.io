@@ -8,8 +8,8 @@ tags:
   - Personal
   - Quora
 description: |-
-In which I establish that it is we old folks who understand just how incredible
-modern technology really is.
+ In which I establish that it is we old folks who understand just how incredible
+ modern technology really is.
 ---
 
    Note: I have not yet added the images to this version. I hope to do so soon.
