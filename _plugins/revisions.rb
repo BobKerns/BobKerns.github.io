@@ -11,7 +11,12 @@ module Jekyll
         %w(posts pages docs_to_write).each do |type|
           site.send(type).each do |item|
             item.data['revisions'] = GitLogger.new(site.source, item.path, site.config['revision']).revisions
-            item.data['last_modified_at'] = item.data['revisions'][0]['date']
+            revision = item.data['revisions'][0]
+            if revision
+              item.data['last_modified_at'] = revision['date']
+            else
+              item.data['last_modified_at'] = 0
+            end
           end
         end
       end
