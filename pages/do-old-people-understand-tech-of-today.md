@@ -10,6 +10,7 @@ tags:
 description: |-
 In which I establish that it is we old folks who understand just how incredible modern technology really is.
 ---
+   Note: I have not yet added the images to this version. I hope to do so soon.
 
 ## Q: Why is it so hard for old people to understand how incredible the technology of today is?
 
@@ -23,6 +24,7 @@ So, kerosene lamps, coal-burning cookstoves and heating, outhouses, water obtain
 
 Oh, and milk came from cows. Cream was separated by a hand-cranked centrifuge. It didn’t keep long, because — no refrigeration. In the summer, meat had to be used or wasted. Later, packing plants arose in rural towns, with refrigeration and the ability to store excess meat for people, and make ice. You could pick up some of your meat periodically and take it home along with some ice for your icebox.
 
+// Image to be added
 
 But a block of ice only lasts so long.
 
@@ -32,10 +34,11 @@ Washing machines didn’t wait for electricity — some used small gasoline moto
 
 The last time I visited the family farm, water still was pumped using a windmill. I remember when they got indoor plumbing, with an electric pump and pressure tank to supply the water.
 
-My maternal grandparents travelled from South Dakota, for my grandfather to attend divinity school at Boston University, until the depression ended that and he returned to South Dakota. They travelled in a Model T — long distance auto travel was still a new thing — the model T came out when he was about 7. The bridges over the Mississippi at the time were designed for rail and wagons.
+My maternal grandparents traveled from South Dakota, for my grandfather to attend divinity school at Boston University, until the depression ended that and he returned to South Dakota. They traveled in a Model T — long distance auto travel was still a new thing — the model T came out when he was about 7. The bridges over the Mississippi at the time were designed for rail and wagons.
 
 My mother was born in a mining shack. After she was born, my grandfather built a sod house for the new family — near the one my great grandfather built in 1910 (and which is still standing).
 
+// Image to be added
 
 [Edit: Here’s my grandfather explaining how it was done, in a letter to my brother: This is a letter from my father, Robert Orloff Dragoo to my son, Thomas Kerns, grade 5 (1966) for a school project ]
 
@@ -63,12 +66,15 @@ The big banks had bigger computers. Huge computers, taking up an entire floor of
 
 NASA had computers for the Apollo program, too:
 
+// Image to be added
 
 My wristwatch has millions of times more storage capacity and computing power. Plus it communicates over the cellular networks, WiFi, Bluetooth, both voice and data.
 
+// Image to be added
 
 Smaller banks didn’t have computers. Savings accounts had little books in which deposits and withdrawals were recorded. Written by hand.
 
+// Image to be added
 
 In July of 1969, I watched the Apollo moon landing, on a television set I had repaired. They used vacuum tubes back then — unreliable, hot, power-hungry, and big. The screens were these massive CRT tubes — basically an electron accelerator, accelerated with 15,000 volts, with some focusing electrodes steered by electromagnets to a spot on a screen, swept back and forth to cover the screen and form an image. Mine were all black-and-white. Color was still too expensive, still too new. (I remember when we got our first TV, a decade earlier. Watched Lassie, Mr. Ed, and Walter Cronkite.)
 
@@ -94,6 +100,7 @@ At the time, my mother couldn’t really grasp the idea of computer networking, 
 
 Since about 2004, I have been wearing an insulin pump. This was invented in 1971 by Dean Kamen, and he commercialized it as the AutoSyringe.
 
+// Image to be added
 
 My pump is similar to the one on the right, though a few generations later. It not only continuously delivers insulin, but integrates with a continuous glucose sensor. It enables far more precise glucose control than can be obtained by injections, and with far more safety. (An overdose of insulin can be lethal).
 
@@ -103,12 +110,15 @@ Around 2008, due to increasing physical disability, I began using a Segway for m
 
 This is me and my daughter in 2008:
 
+// Image to be added
 
 My mother came to visit, tried out my Segway, and went and bought one for herself, and then another. (This one’s a rental I rented so we could travel around together).
 
+// Image to be added
 
 Here she is at a quilting show.
 
+// Image to be added
 
 She used it right up to the day of her fatal stroke at age 82 1/2. After her death, they were donated to Segs4Vets, where they help a couple of disabled veterans of the Iraq and Afghanistan conflict.
 
@@ -118,6 +128,7 @@ The Segway was invented by Dean Kamen — the same Dean Kamen who invented the i
 
 When I was a kid, I dreamed of making a big electric motor, and using it to power a tractor. In 2000, I bought my first Prius hybrid vehicle. When commuting to work on my Segway, I used to pass by the local Tesla dealership. I have seen cars driving themselves.
 
+// Image to be added
 
 I took this from my Segway, back when Google was just getting started. I thought it especially cool, since I have studied the algorithms used in self-driving cars. I even considered applying to work on the project, but the commute would have been too much.
 
@@ -127,6 +138,7 @@ Today, my phone knows where I am from listening to satellites orbiting the earth
 
 I began creating web applications in 1994. I’ve connected AI tools to the web. My kids grew up using the web and Google. They take it for granted. My older daughter is an industrial designer; she helped engineer and build satellites, and her artwork has flown in space:
 
+// Image to be added
 
 OK, let’s let that sink in a bit. I watched the moon landing, done with computers a millionth of my wristwatch. Images broadcast in very slow scan, poor resolution black and white.
 
@@ -136,8 +148,9 @@ Images I can call up on my wristwatch. With no wires. My *phone* talks to satell
 
 But we don’t see on TV “Live via satellite” anymore, as we did in my youth, news reporting bringing us video at extraordinary expense.
 
-That’s because we’ve criss-crossed the ocean with fiber optic cables — sending vast amounts of data through tiny fibers of glass by shining lasers through them.
+That’s because we’ve crisscrossed the ocean with fiber optic cables — sending vast amounts of data through tiny fibers of glass by shining lasers through them.
 
+// Image to be added
 
 As a young man, I had occasion to phone to Greece (as well as send those lightweight airmail letters). It was hugely expensive — now you can talk for an hour for $0.60. Or email or Skype for free!
 
