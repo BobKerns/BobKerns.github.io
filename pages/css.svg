@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="1">
+<foreignObject>
+    <style>
+        .mine code {
+            background-color: #80ff80;
+        }
+        .theirs code {
+            background-color: #ff0000;
+        }
+        .main code {
+            background-color: #0000ff;
+            color: #ffffff
+        }
+        .old code {
+            background-color: #808080;
+            color: #ffffff
+        }
+        .another code {
+            background-color: #ffc000;
+        }
+    </style>
+</foreignObject>
+</svg>
