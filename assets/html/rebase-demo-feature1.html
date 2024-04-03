@@ -16,8 +16,9 @@
             data-light-theme="light"
             data-dark-theme="dark"
         >
-            <div class="github-markdown-content"><h1 dir="auto" id="rebase-demo">Rebase Demo</h1>
+            <div class="github-markdown-content"><h1 dir="auto" id="rebase-demo-1">Rebase Demo</h1>
 <p dir="auto">A demonstration of using rebase to base commits on a different branch.</p>
+<hr dir="auto">
 <div  dir="auto" ></div>
 <style>
     .mine code {
@@ -38,7 +39,10 @@
         background-color: #ffc000;
     }
 </style>
+<blockquote dir="auto">
 <p dir="auto">If you see HTML above, click the approriate branch below:</p>
+</blockquote>
+<hr dir="auto">
 <ul dir="auto">
 <li dir="auto"><a href="https://bobkerns.github.io/assets/html/rebase-demo-main.html"><span style='background-color: #0000ff; color: #ffffff; padding: 0 0.25em 0 0.25em;'>main</span></a></li>
 <li dir="auto"><a href="https://bobkerns.github.io/assets/html/rebase-demo-feature1.html"><span style='background-color: #ff0000; color: #000000; padding: 0 0.25em 0 0.25em;'>feature1</span></a></li>
@@ -49,32 +53,15 @@
 Note: <span class='main'><code>main</code></span> may be called
 <span class='main'><code>master</code></span> in older repositories.
 </blockquote>
-<h2 dir="auto" id="try-it">Try it</h2>
+<h2 dir="auto" id="try-it-1">Try it</h2>
 <p dir="auto">This repository has this scenario set up for you to try. It is best viewed in
 Visual Studio code with the <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a>
 plugin enabled.</p>
 <p dir="auto">The line below is what changes between branches:</p>
-<h1 dir="auto" id="headyou-are-on-branch-span-classtheirsfeature1span">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-You are on branch: <span class='theirs'><code>feature1</code></span></h1>
-<p dir="auto">You are on branch: <span class='mine'><code>my-patch1</code></span>, commit &quot;fix-2&quot;</p>
-<blockquote dir="auto">
-<blockquote dir="auto">
-<blockquote dir="auto">
-<blockquote dir="auto">
-<blockquote dir="auto">
-<blockquote dir="auto">
-<blockquote dir="auto">
-<p dir="auto">92a67ff (fix-2)</p>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
+<p dir="auto">You are on branch: <span class='theirs'><code>feature1</code></span></p>
 <p dir="auto">Use <code>git switch</code><code><em>branch</em></code> to switch to each of these branches, then
 switch to <span class='mine'><code>my-patch</code></span> to try out the fix.</p>
-<h2 dir="auto" id="scenario">Scenario</h2>
+<h2 dir="auto" id="scenario-1">Scenario</h2>
 <p dir="auto">Let's say you are creating a patch, so you start a branch. Let's call it <span class='mine'><code>my-patch1</code></span>.</p>
 <p dir="auto">This is what you intend:</p>
 <pre><code class="code-line language-mermaid" dir="auto">gitGraph%%{init { 'theme': 'default', 'themeVariables': {
@@ -121,7 +108,7 @@ commit id: &quot;fix-2&quot;
 </code></pre>
 <p dir="auto">That is, you want to leave <span class='theirs'><code>feature1</code></span> alone
 and not include it in your pull request.</p>
-<h2 dir="auto" id="the-fix-git-rebase---onto">The fix: <code>git rebase --onto</code></h2>
+<h2 dir="auto" id="the-fix-git-rebase---onto-1">The fix: <code>git rebase --onto</code></h2>
 <p dir="auto">To fix this, we need to tell git three things:</p>
 <ol dir="auto">
 <li dir="auto">Where we want to put our commits. Here, that's
@@ -134,7 +121,7 @@ that's the <span class='theirs'><code>feature1</code></span> branch.</li>
 <p dir="auto">To do this, we use <code>git rebase --onto</code>:</p>
 <pre><code class="code-line language-bash" dir="auto">git rebase --onto main feature1 my-patch1
 </code></pre>
-<h2 dir="auto" id="the-result">The result</h2>
+<h2 dir="auto" id="the-result-1">The result</h2>
 <pre><code class="code-line language-mermaid" dir="auto">gitGraph
 %%{init { 'theme': 'default', 'themeVariables': {
     'git0': '#0000ff',
@@ -156,16 +143,16 @@ commit id: &quot;fix-2-copy&quot;
 </code></pre>
 <p dir="auto">The result is that your fixes are copied into a new chain of commits
 starting with the current <span class='main'><code>main</code></span> commit.</p>
-<h2 dir="auto" id="the-pull-request">The Pull Request</h2>
+<h2 dir="auto" id="the-pull-request-1">The Pull Request</h2>
 <p dir="auto">One mistake that git is not very forgiving of is changing history
 that you've already shared with others via <code>git push</code>.</p>
-<h3 dir="auto" id="the-easy-case">The easy case</h3>
+<h3 dir="auto" id="the-easy-case-1">The easy case</h3>
 <p dir="auto">If you haven't pushed your branch yet, you're all set.
 You can safely push <span class='mine'><code>my-patch</code></span> and make your pull request.</p>
 <pre><code class="code-line language-bash" dir="auto">git push --set-upstream origin my-patch
 </code></pre>
 <p dir="auto">If not, you have two choices.</p>
-<h3 dir="auto" id="the-safe-option">The safe option</h3>
+<h3 dir="auto" id="the-safe-option-1">The safe option</h3>
 <p dir="auto">The problem is that it can cause difficulties and
 confusion for others who have already cloned your branch.</p>
 <p dir="auto">To avoid this you can delete your pull request, if any, and then rename
@@ -174,7 +161,7 @@ your branch, e.g. <span class='mine'><code>my-patch-1</code></span>:</p>
 git push --set-upstream origin my-patch-1
 </code></pre>
 <p dir="auto">Then make a new pull request.</p>
-<h3 dir="auto" id="the-quick-option">The quick option</h3>
+<h3 dir="auto" id="the-quick-option-1">The quick option</h3>
 <p dir="auto">If nobody is using what you've pushed, you can do a
 <em>force push</em> to update your branch. Normally, you can
 only add commits to branches when you push. But with
@@ -185,7 +172,7 @@ to simply set <span class='mine'><code>my-patch</code></span> to point to the ne
 <p dir="auto"><code>--force-with-lease</code> is a newer, safer version of
 <code>--force</code> that avoids certain race conditions. It's good
 to get in the habit of using it instead of <code>--force</code>.</p>
-<h2 dir="auto" id="if-you-make-a-mistake">If you make a mistake</h2>
+<h2 dir="auto" id="if-you-make-a-mistake-1">If you make a mistake</h2>
 <p dir="auto">The old commits remain in the repository. They are no longer
 referenced by your branch. They might be referenced by
 <span class='another'><code>another-branch</code></span> like this:</p>
