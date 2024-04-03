@@ -54,7 +54,7 @@ Note: <span class='main'><code>main</code></span> may be called
 Visual Studio code with the <a href="https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced">Markdown Preview Enhanced</a>
 plugin enabled.</p>
 <p dir="auto">The line below is what changes between branches:</p>
-<p dir="auto">You are on branch: <span class='mine'><code>my-patch1</code></span>, commit &quot;fix-2&quot;</p>
+<p dir="auto">You are on branch: <span class='main'><code>main</code></span></p>
 <p dir="auto">Use <code>git switch</code><code><em>branch</em></code> to switch to each of these branches, then
 switch to <span class='mine'><code>my-patch</code></span> to try out the fix.</p>
 <h2 dir="auto" id="scenario">Scenario</h2>
